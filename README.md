@@ -359,3 +359,5 @@ You might also want to check out course <a href="http://www.lynda.com/CakePHP-tu
             <span displaytext="Stumble" class="st_stumbleupon_hcount" st_url="http://www.startutorial.com/articles/view/build-a-shopping-cart-with-cakephp-and-jquery-part-2" st_processed="yes"><span style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;" class="stButton"><span><span class="stButton_gradient"><span class="chicklets stumbleupon">Stumble</span></span><span class="stArrow"><span class="stButton_gradient stHBubble" style="display: inline-block;"><span class="stBubble_hcount">3</span></span></span></span></span></span>     
 </div>
  		</div>
+
+Source: http://www.startutorial.com/articles/view/build-a-shopping-cart-with-cakephp-and-jquery-part-1
